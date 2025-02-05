@@ -2,10 +2,9 @@
 
 Urban road structure assets for Excalidraw
 
-## Published
+## List of Items
 
-- [CrossRoad]()
+> Feel free to request for any new assets needed!
 
-## To be Updated
-
+- [x] Crossroad
 - [ ] Roundabout
